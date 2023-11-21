@@ -1,4 +1,4 @@
-# DotA2 匹配服务器获
+# DotA2 匹配服务器获取
 - 该程序由ChatGPT 3.5代写
 - 需要Python3环境
 - 通过运行dotalock.py，可以获取目前所有匹配服务器的IP地址列表，存储到iplist.csv
